@@ -44,5 +44,5 @@ dhr::readOdriveData(&od, json, "axis0.encoder.vel_estimate",vel_es);
 
 ...
 ```
-Exmaple usage you can [here](https://github.com/robomakery/Odrive/blob/master/main.cpp)
+Exmaple usage you can [here](https://github.com/robomakery/odrive-cpp-library/blob/main/main.cpp)
 
